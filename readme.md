@@ -8,5 +8,6 @@ You can clone this repo and open it up within VSCode. You'll be prompted to inst
 
 ## Extensions Used
 
-
-## Examples
+* [Street Side Software: Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - SpellCheck your code, this extension provides the core spell-checker functionality provided to VSCode.
+* [Street Side Software: Australian English](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-australian-english) - Dictionary for Australian English, nothing more annoying than seeing a Compromize when we say we don't want to Compromise, big surprise!
+* [Yu Zhang: Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Excellent Markdown documentation extension to help you write.
