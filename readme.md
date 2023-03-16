@@ -16,6 +16,8 @@ You can clone this repo and open it up within VSCode. You'll be prompted to inst
   Dictionary for Australian English, nothing more annoying than seeing a Compromize when we say we don't want to Compromise, big surprise!  See [en-GB](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-british-english) & [the others](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions?tab=readme-ov-file#languages).
 * [Yu Zhang: Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - `yzhang.markdown-all-in-one` \
   Excellent Markdown documentation extension to help you write
+* [Pomdtr: Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) - `pomdtr.excalidraw-editor` / `excalidraw.excalidraw`\
+  Adds Excalidraw integration so you can have live excalidraw diagrams.
 
 ## Recommended
 
@@ -44,6 +46,31 @@ sequenceDiagram
     Alice->John: Yes... John, how are you?
 
 ```
+
+## Diagrams with Excalidraw
+
+Editable and rendered Excalidraw diagrams to jazz up documentation!
+
+You can open up the `assets/diagrams/language-server-2023.excalidraw.png` in the editor, modify it and it will happily render a PNG (but also SVG) so when you push to you VCS, it will render the diagram!
+
+![Excalidraw Diagrams](assets/diagrams/language-server-2023.excalidraw.png)
+
+### Settings
+
+The `.vscode/settings.json` contains a few tweaks:
+
+```json
+{    
+    "excalidraw.theme": "auto",
+    "excalidraw.image": {        
+        "exportScale": 1,
+        "exportBackground": false,
+        "exportWithDarkMode": true
+    },
+}
+```
+
+In particular, to enable transparent background for dark theme and keeping the diagram theme neutral, but you can opt for light theme too!
 
 # Resources 
 
