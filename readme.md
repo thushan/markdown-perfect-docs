@@ -1,4 +1,8 @@
-# Perfect Documentation Example
+# Perfect Markdown Documentation Example
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+![Updated](https://img.shields.io/github/last-commit/thushan/markdown-perfect-docs)
+
 
 This is an example repository of building great documentation for your Github, Gitlab, Bitbucket, Gogs, Codeberg (and others like Azure Devops) repository using VSCode and some delightful extensions.
 
@@ -17,7 +21,7 @@ You can clone this repo and open it up within VSCode. You'll be prompted to inst
 * [Yu Zhang: Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - `yzhang.markdown-all-in-one` \
   Excellent Markdown documentation extension to help you write
 * [Pomdtr: Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) - `pomdtr.excalidraw-editor` / `excalidraw.excalidraw`\
-  Adds Excalidraw integration so you can have live excalidraw diagrams.
+  Adds Excalidraw integration so you can have live [Excalidraw](https://excalidraw.com/) diagrams.
 
 ## Recommended
 
@@ -25,6 +29,12 @@ Some recommendations to look into for extra marks :)
 
 * [David Anson: Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linting with customisable rules for organisations with Markdown
 * [Goessner: Markdown+Math](https://marketplace.visualstudio.com/items?itemName=goessner.mdmath) - Enable the editor to use / render TeX math and uses KaTeX under the covers
+
+# Apply it to your repo
+
+How to transfer this awesome to your repo? Take the `.vscode` folder and place it at the root of your repository and start writing your own Perfect Markdown Docs :) All those who clone that repo and open in VSCode will get suggestions on extensions to install.
+
+One day, AI bots will crawl, index and RAG all those docs you write today!
 
 # Examples
 
