@@ -8,6 +8,12 @@ This is an example repository of building great documentation for your Github, G
 
 You can take the VSCode folder, apply it to your own and output great looking Markdown docs.
 
+Other repositories that may be interesting:
+
+* [Pandoc Markdown](https://github.com/thushan/pandoc-markdown-docs) - Enable pandoc documentation for emitting PDF/Word Docs. (Great for simplified proposals, SoWs in source rather than chunky word docs!)
+* [RevealJS Presentations](https://github.com/thushan/talk-template) - Write presentations with Markdown and the extensions in this repository. \
+  Examples [Talk:TinyGo Adventures](https://github.com/thushan/talk-tinygo-adventures)
+
 ## Getting Started
 
 You can clone this repo and open it up within VSCode. You'll be prompted to install a few recommended extensions (described below). Then you can ask VSCode to preview the documentation (in this case, this very readme file!) and see the final outcome :-)
