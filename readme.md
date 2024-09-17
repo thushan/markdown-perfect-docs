@@ -12,7 +12,7 @@ Other repositories that may be interesting:
 
 * [Pandoc Markdown](https://github.com/thushan/pandoc-markdown-docs) - Enable pandoc documentation for emitting PDF/Word Docs. (Great for simplified proposals, SoWs in source rather than chunky word docs!)
 * [RevealJS Presentations](https://github.com/thushan/talk-template) - Write presentations with Markdown and the extensions in this repository. \
-  Examples [Talk:TinyGo Adventures](https://github.com/thushan/talk-tinygo-adventures)
+  Examples [Talk:TinyGo Adventures](https://github.com/thushan/talk-tinygo-adventures), [Talk:Podman Friction-Free Development](https://github.com/thushan/talk-podman-frictionfree-localdev) (more diagrams & visualisations!)
 
 ## Getting Started
 
